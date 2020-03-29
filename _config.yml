@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Tashin Ahmed"
-  avatar           : "https://github.com/TashinAhmed/tashinahmed.github.io/blob/master/download.png"
+  avatar           : "/images/me.png" #"https://github.com/TashinAhmed/tashinahmed.github.io/blob/master/download.png"
   bio              : "Research Assistant, Dept. of CSE, UIU"
   location         : "Tejgaon, Dhaka, BD"
   email            : "tashinahmed@aol.com"
@@ -284,3 +284,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+scope:
+  path: ""
+  type: pages
+values:
+  layout: single
+  author_profile: true
