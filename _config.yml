@@ -94,17 +94,17 @@ analytics:
 # Site Author
 author:
   name             : "Tashin Ahmed"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #""
   bio              : "Research Assistant, Dept. of CSE, UIU"
   location         : "Tejgaon, Dhaka, BD"
   email            : "tashinahmed@aol.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: tashinahmed@aol.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tashinahmed.github.io"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: tashinahmed@aol.com
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://tashinahmed.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tash_in_ahm_ed"
