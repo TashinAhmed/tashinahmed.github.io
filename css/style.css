@@ -357,7 +357,7 @@ hr.soft {
   margin-bottom: 20px;
   font-weight: 300;
 }
-@media (min-width: 34em) {
+@media (min-width: 234em) {
     .card-columns {
         -webkit-column-count: 2;
         -moz-column-count: 2;
@@ -365,7 +365,7 @@ hr.soft {
     }
 }
 
-@media (min-width: 48em) {
+@media (min-width: 248em) {
     .card-columns {
         -webkit-column-count: 3;
         -moz-column-count: 3;
@@ -373,7 +373,7 @@ hr.soft {
     }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 262em) {
     .card-columns {
         -webkit-column-count: 4;
         -moz-column-count: 4;
@@ -381,7 +381,7 @@ hr.soft {
     }
 }
 
-@media (min-width: 75em) {
+@media (min-width: 275em) {
     .card-columns {
         -webkit-column-count: 5;
         -moz-column-count: 5;
