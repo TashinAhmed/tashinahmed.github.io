@@ -20,11 +20,13 @@ html, body {
 }
 .bg2 {
  /* background-color: #299DB6; #004c7d*/
+    text-align: center;
+    align-items: center;
     background-image: linear-gradient(to top, white 0%, grey 0%);
 }
 #headerblob {
   position: absolute;
-  left: 40%;
+  left: 15%;
   top: 50px;
   width: 70%;
 }
