@@ -428,3 +428,9 @@ hr.soft {
   margin-bottom: 20px;
   font-weight: 300;
 }
+
+.footer {
+  background-color: whitesmoke;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
