@@ -434,3 +434,12 @@ hr.soft {
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
+
+.jumbotron {
+  padding: 30px 30px 30px 30px;
+  margin-bottom: 10px auto;
+  text-align: center;
+  align-items: center;
+  background: #9575cd;
+  color: floralwhite;
+}
