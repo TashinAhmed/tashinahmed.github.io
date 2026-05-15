@@ -242,9 +242,9 @@ a:hover { color: var(--highlight); }
 
 .subsection-title {
   font-family: 'Science Gothic', sans-serif;
-  font-size: .95rem; font-weight: 600; color: var(--accent);
-  margin: 16px 0 8px; padding-left: 10px;
-  border-left: 3px solid var(--highlight);
+  font-size: .95rem; font-weight: 600; color: var(--primary-bright);
+  margin: 16px 0 8px; padding-left: 0;
+  border-left: none;
   text-transform: uppercase; letter-spacing: .03em;
 }
 
