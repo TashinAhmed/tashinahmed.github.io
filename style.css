@@ -83,8 +83,9 @@ a:hover { color: var(--highlight); }
   transition: all var(--transition);
 }
 .topnav.scrolled {
-  background: rgba(255,255,255,0.8);
-  box-shadow: var(--shadow-float), inset 0 1px 0 rgba(255,255,255,0.9);
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
 }
 
 .topnav-inner {
